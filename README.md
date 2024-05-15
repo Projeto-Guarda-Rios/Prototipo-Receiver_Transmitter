@@ -16,7 +16,7 @@ Por fim é recomendado clicar no botão ***EN*** da **ESP32**, para dar **reset*
 
 ### Receiver
 
-Criar um ficheiro novo no ***Arduino IDE*** e colar o código do [**receiver**](https://github.com/Projeto-Guarda-Rios/Prototipo-Receiver_Transmitter/blob/main/PGR-Receiver.ino).
+Criar um ficheiro novo no ***Arduino IDE*** e colar o código do [**transmitter**](https://github.com/Projeto-Guarda-Rios/Prototipo-Receiver_Transmitter/blob/main/PGR-Transmitter.ino).
 Asseguir deve-se incluir todas as **bibliotecas** do projeto, para a biblioteca **"EBYTE"** comece por dar [*download*](https://github.com/KrisKasprzak/EBYTE) a esta Biblioteca, asseguir clique em **Sketch -> Include Library -> Add *.ZIP* Library** e selecione o ficheiro ***.ZIP*** que acabou de descarregar!
 Asseguir ligar as **ESP32** ao computador e clicar em ***Upload***, enquanto o código estiver a ser ***Uploaded*** deve-se clicar e segurar no botão ***Boot*** da **ESP32** até terminar o *Upload*! 
 Por fim é recomendado clicar no botão ***EN*** da **ESP32**, para dar **reset** à placa!
