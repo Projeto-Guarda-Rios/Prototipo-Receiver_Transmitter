@@ -16,12 +16,12 @@ Por fim é recomendado clicar no botão ***EN*** da **ESP32**, para dar **reset*
 ### Transmitter
 
 * **ESP32**
-* **Antena LoRe EBYTE E220**
+* **Antena LoRa EBYTE E220**
 
 ### Receiver
 
 * **ESP32**
-* **Antena LoRe EBYTE E220**
+* **Antena LoRa EBYTE E220**
 * **Sensor de Turbidez**
 
 ## Ficheiros dos Códigos
