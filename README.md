@@ -47,4 +47,10 @@ Por fim é recomendado clicar no botão ***EN*** da **ESP32**, para dar **reset*
 
 #
 
+## Diagrama de Montagem
+
+![This is an alt text.](https://abacasstorageaccnt.blob.core.windows.net/cirkit/8bed7a91-538c-44fd-947a-6181d806945b.png)
+
+#
+
 ![This is an alt text.](https://guarda-rios.pt/wp-content/uploads/2024/04/guarda_rios-removebg-preview-10.png)
